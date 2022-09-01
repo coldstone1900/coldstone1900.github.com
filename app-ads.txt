@@ -1,6 +1,9 @@
 google.com, pub-5272462489798237, DIRECT, f08c47fec0942fa0
+
 applovin.com, 6d324f6796ccbd4f234dbd25c5f3ee03, DIRECT
+
 facebook.com, 738263414178478, DIRECT, c3e20eee3f780d68
+
 ironsrc.com, 251345, Direct
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
@@ -82,6 +85,7 @@ pubmatic.com, 162017, RESELLER, 5d62403b186f2ace
 appnexus.com, 11664, RESELLER
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
 engagebdr.com, 10537, RESELLER
+
 vungle.com, 6308706ba54be3001bb33b6a, DIRECT, c107d686becd2d77
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
 adcolony.com, c7b2bb9f944ae42a, RESELLER, 1ad675c9de6b5176
